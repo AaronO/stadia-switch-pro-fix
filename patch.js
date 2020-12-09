@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stadia Switch Pro fix
 // @namespace    https://github.com/AaronO
-// @version      0.1
+// @version      0.2
 // @description  Fixes duplicate Switch Pro pads over BT on macOS
 // @author       Aaron O'Mullan
 // @match        https://stadia.google.com/*
