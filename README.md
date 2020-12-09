@@ -2,7 +2,7 @@ A fix for duplicate Switch Pro pads over BT on macOS
 
 ## Problem
 
-Switch Pro controllers over BT on Chrome & macOS have issues in Stadia. It detects 2 controllers instead of 1 and in-game controllers will "flicker" (on Hitman, ...) and some buttons simply do not work which can be game breaking.
+Switch Pro controllers over BT on Chrome & macOS have issues in Stadia. It detects 2 controllers instead of 1 and in-game controls will "flicker" (on Hitman, ...) and some buttons simply do not work which can be game breaking.
 
 ## Fix
 
