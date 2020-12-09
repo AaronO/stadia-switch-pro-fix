@@ -5,6 +5,7 @@
 // @description  Fixes duplicate Switch Pro pads over BT on macOS
 // @author       Aaron O'Mullan
 // @match        https://stadia.google.com/*
+// @match        https://play.geforcenow.com/*
 // @grant        none
 // ==/UserScript==
 
